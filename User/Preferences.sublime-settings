@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/CodeSchool.tmTheme",
+	"color_scheme": "Packages/Theme - Default/CodeSchool.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
