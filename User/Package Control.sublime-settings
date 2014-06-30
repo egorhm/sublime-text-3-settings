@@ -1,7 +1,9 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Better CoffeeScript",
+		"Clipboard Manager",
 		"CTags",
 		"DashDoc",
 		"Git",
