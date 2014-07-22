@@ -2,9 +2,11 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ApplySyntax",
 		"Better CoffeeScript",
 		"Clipboard Manager",
 		"CTags",
+		"Cucumber",
 		"DashDoc",
 		"EasyMotion",
 		"Git",

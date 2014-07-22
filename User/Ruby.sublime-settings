@@ -1,23 +1,30 @@
 {
-  "cmd": [
-    "$HOME/.rvm/bin/rvm-auto-ruby", "$file"
-  ],
-  "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
-  "selector": "source.ruby",
-  "extensions":
-  [
-    "rb",
-    "ru",
-    "god",
-    "rabl",
-    "Gemfile",
-    "Rakefile",
-    "Vagrantfile",
-    "Guardfile"
-  ],
-  "rulers":
-  [
-    80
-  ],
-  "tab_size": 2
+	"cmd":
+	[
+		"$HOME/.rvm/bin/rvm-auto-ruby",
+		"$file"
+	],
+	"extensions":
+	[
+		"Rakefile",
+		"Guardfile",
+		"podspec",
+		"rb",
+		"thor",
+		"rabl",
+		"simplecov",
+		"Gemfile",
+		"god",
+		"Vagrantfile",
+		"rake",
+		"ru",
+		"jbuilder"
+	],
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"rulers":
+	[
+		80
+	],
+	"selector": "source.ruby",
+	"tab_size": 2
 }
