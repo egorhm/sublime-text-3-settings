@@ -1,7 +1,11 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Anaconda",
 		"ApplySyntax",
 		"Better CoffeeScript",
 		"Clipboard Manager",
@@ -12,7 +16,9 @@
 		"Git",
 		"GitGutter",
 		"Github Color Theme",
+		"GoSublime",
 		"Markdown Preview",
+		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SFTP",
 		"Shell Turtlestein",
