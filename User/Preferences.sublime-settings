@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Default/Capo-Light.tmTheme",
+	"color_scheme": "Packages/Theme - Default/textmate.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
@@ -35,12 +35,12 @@
 	[
 		"Better CoffeeScript",
 		"DashDoc",
-		"SideBarEnhancements",
-		"Markdown Preview",
-		"AdvancedNewFile",
 		"GoSublime",
 		"Vintage",
-		"Cucumber"
+		"SideBarEnhancements",
+		"Markdown Preview",
+		"Cucumber",
+		"AdvancedNewFile"
 	],
 	"match_brackets": true,
 	"match_brackets_angle": true,
