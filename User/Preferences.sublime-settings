@@ -33,14 +33,14 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Better CoffeeScript",
-		"DashDoc",
+		"Cucumber",
 		"GoSublime",
-		"Vintage",
+		"AdvancedNewFile",
+		"Better CoffeeScript",
 		"SideBarEnhancements",
 		"Markdown Preview",
-		"Cucumber",
-		"AdvancedNewFile"
+		"DashDoc",
+		"Vintage"
 	],
 	"match_brackets": true,
 	"match_brackets_angle": true,
@@ -57,5 +57,11 @@
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"wide_caret": true
+	"wide_caret": true,
+	"rulers": [ 79 ],
+  "word_wrap": true,
+  "wrap_width": 80,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true
 }
