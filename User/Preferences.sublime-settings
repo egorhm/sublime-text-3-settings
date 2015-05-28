@@ -1,6 +1,9 @@
 {
+	"line_padding_bottom": 1,
+ 	"line_padding_top": 1,
+ 	"fade_fold_buttons": false,
 	"bold_folder_labels": true,
-	"caret_style": "solid",
+	"caret_style": "wide",
 	"color_scheme": "Packages/Theme - Default/textmate.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
