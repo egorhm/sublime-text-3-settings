@@ -1,13 +1,11 @@
 {
-	"line_padding_bottom": 1,
- 	"line_padding_top": 1,
- 	"fade_fold_buttons": false,
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Default/textmate.tmTheme",
+	"color_scheme": "Packages/Theme - Default/Mac Classic.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -24,7 +22,8 @@
 		"_build",
 		"dist",
 		"build",
-		"site"
+		"site",
+		".DS_Store"
 	],
 	"font_face": "Monaco",
 	"font_options":
@@ -38,6 +37,8 @@
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"match_brackets_braces": true,
