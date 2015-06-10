@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Default/Mac Classic.tmTheme",
+	"color_scheme": "Packages/Theme - Default/CodeSchool.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
@@ -25,12 +25,12 @@
 		"site",
 		".DS_Store"
 	],
-	"font_face": "Monaco",
+	"font_face": "Liberation Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -55,7 +55,7 @@
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,

@@ -702,6 +702,20 @@
         <string>#751012</string>
       </dict>
     </dict>
+    <dict>
+        <key>name</key>
+        <string>Comment</string>
+        <key>scope</key>
+        <string>comment, string.quoted.double.block.python</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>italic</string>
+          <key>foreground</key>
+          <string>#AAAAAA</string>
+        </dict>
+    </dict>
+
   </array>
   <key>uuid</key>
   <string>18C217F8-A61C-4D3A-BEC1-0FF6641EB18F</string>
