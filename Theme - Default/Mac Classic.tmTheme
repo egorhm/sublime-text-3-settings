@@ -423,7 +423,7 @@
 				<string>#B90690</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- <dict>
             <key>name</key>
             <string>Comment</string>
             <key>scope</key>
@@ -435,7 +435,7 @@
                 <key>foreground</key>
                 <string>#AAAAAA</string>
             </dict>
-        </dict>
+        </dict> -->
         <dict>
          <key>name</key>
          <string>Operators</string>
