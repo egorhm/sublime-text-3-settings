@@ -1,10 +1,10 @@
 {
-  "anaconda_linting": false,
 	"anaconda_linter_mark_style": "none",
+	"anaconda_linting": false,
 	"extensions":
 	[
 		"py3",
 		"pyw"
 	],
-  "tab_size": 4
+	"tab_size": 4
 }
