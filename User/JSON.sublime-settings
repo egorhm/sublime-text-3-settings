@@ -4,6 +4,9 @@
 		".csslintrc",
 		".eslintrc",
 		".bowerrc",
+		".jscsrc",
+		".bowerrc",
+		".eslintrc",
 		".jshintrc",
 		".jscsrc"
 	]
