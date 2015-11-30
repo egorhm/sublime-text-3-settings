@@ -1,6 +1,10 @@
 {
 	"anaconda_linter_mark_style": "none",
-	"anaconda_linting": false,
+	// "anaconda_linting": false,
+    "pep8_ignore":
+    [
+        "E501"
+    ],
 	"extensions":
 	[
 		"py3",

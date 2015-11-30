@@ -2,7 +2,7 @@
 	"extensions":
 	[
 		"yml.dist",
-		"yml",
-		".gemrc"
+		".gemrc",
+		"yml"
 	]
 }

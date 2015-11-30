@@ -6,19 +6,19 @@
 	],
 	"extensions":
 	[
+		"Guardfile",
+		"Rakefile",
 		"simplecov",
 		"podspec",
-		"rabl",
-		"thor",
-		"rb",
-		"Gemfile",
 		"jbuilder",
-		"ru",
-		"Rakefile",
-		"Guardfile",
+		"rabl",
+		"Gemfile",
 		"rake",
 		"god",
-		"Vagrantfile"
+		"rb",
+		"Vagrantfile",
+		"ru",
+		"thor"
 	],
 	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
 	"rulers":
